@@ -1,0 +1,162 @@
+[
+  {
+    "pokemonName": "Charizard",
+    "phrase": "Charizard says: Always bring extra marshmallows to a flame battle!",
+    "userName": "Jane Doe",
+    "userProfile": "https://linkedin.com/in/janedoe",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/6.png",
+    "gif": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/6.gif"
+  },
+  {
+    "pokemonName": "Pikachu",
+    "phrase": "Pikachu says: Coffee first, then we can talk about electric battles!",
+    "userName": "John Smith",
+    "userProfile": "https://linkedin.com/in/johnsmith",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/25.png",
+    "gif": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/25.gif"
+  },
+  {
+    "pokemonName": "Blastoise",
+    "phrase": "Blastoise says: I don't need an umbrella, I AM the umbrella!",
+    "userName": "Sarah Wilson",
+    "userProfile": "https://linkedin.com/in/sarahwilson",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/9.png",
+    "gif": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/9.gif"
+  },
+  {
+    "pokemonName": "Venusaur",
+    "phrase": "Venusaur says: I'm not just eco-friendly, I AM the ecosystem!",
+    "userName": "Mike Johnson",
+    "userProfile": "https://linkedin.com/in/mikejohnson",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/3.png",
+    "gif": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/3.gif"
+  },
+  {
+    "pokemonName": "Snorlax",
+    "phrase": "Snorlax says: I'm not lazy, I'm in power saving mode!",
+    "userName": "Emily Chen",
+    "userProfile": "https://linkedin.com/in/emilychen",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/143.png",
+    "gif": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/143.gif"
+  },
+  {
+    "pokemonName": "Mewtwo",
+    "phrase": "Mewtwo says: I think, therefore I am... overpowered!",
+    "userName": "David Rodriguez",
+    "userProfile": "https://linkedin.com/in/davidrodriguez",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/150.png",
+    "gif": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/150.gif"
+  },
+  {
+    "pokemonName": "Gyarados",
+    "phrase": "Gyarados says: I'm having a scale of emotions right now!",
+    "userName": "Lisa Thompson",
+    "userProfile": "https://linkedin.com/in/lisathompson",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/130.png",
+    "gif": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/130.gif"
+  },
+  {
+    "pokemonName": "Dragonite",
+    "phrase": "Dragonite says: I deliver packages faster than Amazon Prime!",
+    "userName": "Alex Kumar",
+    "userProfile": "https://linkedin.com/in/alexkumar",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/149.png",
+    "gif": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/149.gif"
+  },
+  {
+    "pokemonName": "Alakazam",
+    "phrase": "Alakazam says: My IQ is over 9000... wait, wrong anime!",
+    "userName": "Rachel Green",
+    "userProfile": "https://linkedin.com/in/rachelgreen",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/65.png",
+    "gif": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/65.gif"
+  },
+  {
+    "pokemonName": "Machamp",
+    "phrase": "Machamp says: I never skip arm day... or any day!",
+    "userName": "Tom Anderson",
+    "userProfile": "https://linkedin.com/in/tomanderson",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/68.png",
+    "gif": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/68.gif"
+  },
+  {
+    "pokemonName": "Gengar",
+    "phrase": "Gengar says: Boo! Just kidding, I'm actually quite friendly!",
+    "userName": "Nina Patel",
+    "userProfile": "https://linkedin.com/in/ninapatel",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/94.png",
+    "gif": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/94.gif"
+  },
+  {
+    "pokemonName": "Lapras",
+    "phrase": "Lapras says: I'm the Uber of the ocean, but with better music!",
+    "userName": "Chris Lee",
+    "userProfile": "https://linkedin.com/in/chrislee",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/131.png",
+    "gif": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/131.gif"
+  },
+  {
+    "pokemonName": "Eevee",
+    "phrase": "Eevee says: I have more career options than a college graduate!",
+    "userName": "Amanda Foster",
+    "userProfile": "https://linkedin.com/in/amandafoster",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/133.png",
+    "gif": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/133.gif"
+  },
+  {
+    "pokemonName": "Lucario",
+    "phrase": "Lucario says: I sense your aura... and it needs more coffee!",
+    "userName": "Kevin Wright",
+    "userProfile": "https://linkedin.com/in/kevinwright",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/448.png",
+    "gif": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/448.gif"
+  },
+  {
+    "pokemonName": "Garchomp",
+    "phrase": "Garchomp says: I'm faster than your internet connection!",
+    "userName": "Stephanie Davis",
+    "userProfile": "https://linkedin.com/in/stephaniedavis",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/445.png",
+    "gif": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/445.gif"
+  },
+  {
+    "pokemonName": "Rayquaza",
+    "phrase": "Rayquaza says: I live in the sky because the rent is cheaper up here!",
+    "userName": "Daniel Martinez",
+    "userProfile": "https://linkedin.com/in/danielmartinez",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/384.png",
+    "gif": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/384.gif"
+  },
+  {
+    "pokemonName": "Metagross",
+    "phrase": "Metagross says: I have four brains and still can't understand humans!",
+    "userName": "Jennifer Taylor",
+    "userProfile": "https://linkedin.com/in/jennifertaylor",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/376.png",
+    "gif": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/376.gif"
+  },
+  {
+    "pokemonName": "Absol",
+    "phrase": "Absol says: I predict disasters, but nobody listens until it's too late!",
+    "userName": "Ryan Murphy",
+    "userProfile": "https://linkedin.com/in/ryanmurphy",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/359.png",
+    "gif": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/359.gif"
+  },
+  {
+    "pokemonName": "Togekiss",
+    "phrase": "Togekiss says: Spreading happiness is my full-time job!",
+    "userName": "Michelle Brown",
+    "userProfile": "https://linkedin.com/in/michellebrown",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/468.png",
+    "gif": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/468.gif"
+  },
+  {
+    "pokemonName": "Rotom",
+    "phrase": "Rotom says: I'm the reason your appliances have attitude!",
+    "userName": "Andrew Wilson",
+    "userProfile": "https://linkedin.com/in/andrewwilson",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/479.png",
+    "gif": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/479.gif"
+  }
+]

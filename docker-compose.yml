@@ -1,0 +1,43 @@
+version: '3.8'
+
+services:
+  web:
+    build: .
+    container_name: pokemon-app
+    ports:
+      - '3000:3000'
+    environment:
+      - NODE_ENV=production
+      - PORT=3000
+      - MONGODB_URI=mongodb://mongo:27017/pokemon_db
+    depends_on:
+      - mongo
+    restart: unless-stopped
+    volumes:
+      - ./data:/app/data:ro # Mount data directory as read-only
+    networks:
+      - pokemon-network
+
+  mongo:
+    image: mongo:7.0
+    container_name: pokemon-mongo
+    ports:
+      - '27017:27017'
+    environment:
+      - MONGO_INITDB_ROOT_USERNAME=admin
+      - MONGO_INITDB_ROOT_PASSWORD=pokemon123
+      - MONGO_INITDB_DATABASE=pokemon_db
+    volumes:
+      - mongodb_data:/data/db
+      - ./mongo-init:/docker-entrypoint-initdb.d:ro
+    restart: unless-stopped
+    networks:
+      - pokemon-network
+
+volumes:
+  mongodb_data:
+    driver: local
+
+networks:
+  pokemon-network:
+    driver: bridge

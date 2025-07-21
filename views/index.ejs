@@ -1,0 +1,51 @@
+<div class="hero-section">
+  <h1 class="hero-title">Pokémon Cards Collection</h1>
+  <p class="hero-subtitle">
+    Funny Pokémon cards submitted by my LinkedIn network
+  </p>
+  <div class="docker-badge">
+    <i class="fab fa-docker"></i>
+    <span>Powered by Docker</span>
+  </div>
+</div>
+
+<section class="pokemon-grid">
+  <div class="grid-container">
+    <% pokemons.forEach((pokemon, index) => { %>
+    <div class="pokemon-card" data-index="<%= index %>">
+      <div class="card-image">
+        <img
+          src="<%= pokemon.image %>"
+          alt="<%= pokemon.pokemonName %>"
+          loading="lazy"
+        />
+        <div class="card-overlay">
+          <i class="fas fa-eye"></i>
+          <span>View Details</span>
+        </div>
+      </div>
+      <div class="card-content">
+        <h3 class="pokemon-name"><%= pokemon.pokemonName %></h3>
+        <div class="user-info">
+          <a
+            href="<%= pokemon.userProfile %>"
+            target="_blank"
+            class="linkedin-link"
+          >
+            <i class="fab fa-linkedin"></i>
+            <span><%= pokemon.userName %></span>
+          </a>
+        </div>
+      </div>
+    </div>
+    <% }); %>
+  </div>
+</section>
+
+<% if (pokemons.length === 0) { %>
+<div class="empty-state">
+  <i class="fas fa-search"></i>
+  <h2>No Pokémon Found</h2>
+  <p>Looks like the Pokédex is empty. Check back later!</p>
+</div>
+<% } %>

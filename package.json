@@ -1,0 +1,34 @@
+{
+  "name": "pokemons-docker-linkedin",
+  "version": "1.0.0",
+  "description": "A modern frontend project showcasing Docker skills with Pokemon cards from LinkedIn network",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "pokemon",
+    "docker",
+    "linkedin",
+    "nodejs",
+    "express",
+    "ejs"
+  ],
+  "author": "Kseniia Riabova",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2",
+    "ejs": "^3.1.9",
+    "express-ejs-layouts": "^2.5.1",
+    "mongoose": "^8.0.0",
+    "dotenv": "^16.3.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}

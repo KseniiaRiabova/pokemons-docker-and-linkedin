@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title><%= title %></title>
+    <link rel="stylesheet" href="/css/style.css" />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap"
+      rel="stylesheet"
+    />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css"
+    />
+  </head>
+  <body>
+    <header>
+      <nav class="navbar">
+        <div class="nav-container">
+          <h1 class="nav-title">
+            <i class="fas fa-dragon"></i>
+            Pokémons Docker & LinkedIn
+          </h1>
+          <div class="nav-links">
+            <a
+              href="https://github.com/KseniiaRiabova"
+              target="_blank"
+              class="social-link"
+            >
+              <i class="fab fa-github"></i>
+            </a>
+            <a
+              href="https://www.linkedin.com/in/riabovakseniia/"
+              target="_blank"
+              class="social-link"
+            >
+              <i class="fab fa-linkedin"></i>
+            </a>
+          </div>
+        </div>
+      </nav>
+    </header>
+
+    <main><%- body %></main>
+
+    <footer>
+      <div class="footer-content">
+        <p>
+          💖 Thanks to everyone who took part in this experiment and helped me
+          to practice my Docker skills!
+        </p>
+        <div class="footer-links">
+          <a href="https://github.com/KseniiaRiabova" target="_blank">
+            <i class="fab fa-github"></i> GitHub
+          </a>
+          <a href="https://www.linkedin.com/in/riabovakseniia/" target="_blank">
+            <i class="fab fa-linkedin"></i> LinkedIn
+          </a>
+        </div>
+      </div>
+    </footer>
+
+    <!-- Modal -->
+    <div id="pokemonModal" class="modal">
+      <div class="modal-content">
+        <span class="close">&times;</span>
+        <div class="modal-body">
+          <div class="modal-image">
+            <img id="modalGif" src="" alt="Pokemon GIF" />
+          </div>
+          <div class="modal-info">
+            <h2 id="modalName"></h2>
+            <p id="modalPhrase"></p>
+            <div class="modal-user">
+              <p>
+                Submitted by:
+                <a
+                  id="modalUserLink"
+                  href=""
+                  target="_blank"
+                  class="linkedin-badge"
+                >
+                  <i class="fab fa-linkedin"></i>
+                  <span id="modalUserName"></span>
+                </a>
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <script src="/js/main.js"></script>
+  </body>
+</html>
