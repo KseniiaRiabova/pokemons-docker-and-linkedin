@@ -14,18 +14,26 @@ function loadPokemonData() {
   }
 }
 
+// Main route - Display all Pokemon cards
 router.get('/', (req, res) => {
   const pokemons = loadPokemonData();
-  res.render('index', {
+  res.render('index', { 
     title: 'Pokémons Docker and LinkedIn',
-    pokemons: pokemons.slice(0, 20),
+    pokemons: pokemons // Show all Pokemon now, not just 20
   });
 });
 
+// API route to get all Pokemon data (for search functionality)
+router.get('/api/pokemon/all', (req, res) => {
+  const pokemons = loadPokemonData();
+  res.json(pokemons);
+});
+
+// API route to get Pokemon data by index (for modal)
 router.get('/api/pokemon/:index', (req, res) => {
   const pokemons = loadPokemonData();
   const index = parseInt(req.params.index);
-
+  
   if (index >= 0 && index < pokemons.length) {
     res.json(pokemons[index]);
   } else {

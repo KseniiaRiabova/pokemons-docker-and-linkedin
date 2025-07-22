@@ -1,162 +1,254 @@
 [
   {
-    "pokemonName": "Charizard",
-    "phrase": "Charizard says: Always bring extra marshmallows to a flame battle!",
-    "userName": "Jane Doe",
-    "userProfile": "https://linkedin.com/in/janedoe",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/6.png",
-    "gif": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/6.gif"
-  },
-  {
-    "pokemonName": "Pikachu",
-    "phrase": "Pikachu says: Coffee first, then we can talk about electric battles!",
-    "userName": "John Smith",
-    "userProfile": "https://linkedin.com/in/johnsmith",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/25.png",
-    "gif": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/25.gif"
-  },
-  {
-    "pokemonName": "Blastoise",
-    "phrase": "Blastoise says: I don't need an umbrella, I AM the umbrella!",
-    "userName": "Sarah Wilson",
-    "userProfile": "https://linkedin.com/in/sarahwilson",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/9.png",
-    "gif": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/9.gif"
-  },
-  {
-    "pokemonName": "Venusaur",
-    "phrase": "Venusaur says: I'm not just eco-friendly, I AM the ecosystem!",
-    "userName": "Mike Johnson",
-    "userProfile": "https://linkedin.com/in/mikejohnson",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/3.png",
-    "gif": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/3.gif"
-  },
-  {
-    "pokemonName": "Snorlax",
-    "phrase": "Snorlax says: I'm not lazy, I'm in power saving mode!",
-    "userName": "Emily Chen",
-    "userProfile": "https://linkedin.com/in/emilychen",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/143.png",
-    "gif": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/143.gif"
-  },
-  {
-    "pokemonName": "Mewtwo",
-    "phrase": "Mewtwo says: I think, therefore I am... overpowered!",
-    "userName": "David Rodriguez",
-    "userProfile": "https://linkedin.com/in/davidrodriguez",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/150.png",
-    "gif": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/150.gif"
-  },
-  {
-    "pokemonName": "Gyarados",
-    "phrase": "Gyarados says: I'm having a scale of emotions right now!",
-    "userName": "Lisa Thompson",
-    "userProfile": "https://linkedin.com/in/lisathompson",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/130.png",
-    "gif": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/130.gif"
-  },
-  {
-    "pokemonName": "Dragonite",
-    "phrase": "Dragonite says: I deliver packages faster than Amazon Prime!",
-    "userName": "Alex Kumar",
-    "userProfile": "https://linkedin.com/in/alexkumar",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/149.png",
-    "gif": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/149.gif"
-  },
-  {
     "pokemonName": "Alakazam",
-    "phrase": "Alakazam says: My IQ is over 9000... wait, wrong anime!",
-    "userName": "Rachel Green",
-    "userProfile": "https://linkedin.com/in/rachelgreen",
+    "phrase": "Kseniia's Alakazam wishes you to solve every bug with the intelligence of a thousand minds! 🧠✨",
+    "userName": "Kseniia Riabova",
+    "userTitle": "Software Engineer",
+    "userProfile": "https://www.linkedin.com/in/riabovakseniia/",
     "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/65.png",
     "gif": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/65.gif"
   },
   {
-    "pokemonName": "Machamp",
-    "phrase": "Machamp says: I never skip arm day... or any day!",
-    "userName": "Tom Anderson",
-    "userProfile": "https://linkedin.com/in/tomanderson",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/68.png",
-    "gif": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/68.gif"
+    "pokemonName": "Pikachu",
+    "phrase": "Ahmed's Pikachu wishes you to stay energized and spark innovation in every project! ⚡🔥",
+    "userName": "Ahmed Sohail",
+    "userTitle": "Electrical Engineer",
+    "userProfile": "https://www.linkedin.com/in/ahmed-sohail/",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/25.png",
+    "gif": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/25.gif"
   },
   {
-    "pokemonName": "Gengar",
-    "phrase": "Gengar says: Boo! Just kidding, I'm actually quite friendly!",
-    "userName": "Nina Patel",
-    "userProfile": "https://linkedin.com/in/ninapatel",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/94.png",
-    "gif": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/94.gif"
+    "pokemonName": "Charizard",
+    "phrase": "Martin's Charizard wishes you to manage projects with the fierce determination of a dragon! 🐉🔥",
+    "userName": "Martin Pham",
+    "userTitle": "Project Manager",
+    "userProfile": "https://www.linkedin.com/in/martinpham-projects/",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/6.png",
+    "gif": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/6.gif"
   },
   {
-    "pokemonName": "Lapras",
-    "phrase": "Lapras says: I'm the Uber of the ocean, but with better music!",
-    "userName": "Chris Lee",
-    "userProfile": "https://linkedin.com/in/chrislee",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/131.png",
-    "gif": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/131.gif"
+    "pokemonName": "Snorlax",
+    "phrase": "Jacob's Snorlax wishes you to rest when needed and wake up with unstoppable entrepreneurial energy! 😴💪",
+    "userName": "Jacob Elliott",
+    "userTitle": "Entrepreneur & Product Strategist",
+    "userProfile": "https://www.linkedin.com/in/jacob-elliott/",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/143.png",
+    "gif": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/143.gif"
+  },
+  {
+    "pokemonName": "Vaporeon",
+    "phrase": "Cristian's Vaporeon wishes you to flow like water and adapt to any security challenge! 🌊🛡️",
+    "userName": "Cristian Sindile",
+    "userTitle": "Founder of Covert Security",
+    "userProfile": "https://www.linkedin.com/in/cristiansindile/",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/134.png",
+    "gif": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/134.gif"
+  },
+  {
+    "pokemonName": "Jigglypuff",
+    "phrase": "Alex's Jigglypuff wishes you sweet dreams and harmonious success in all your endeavors! 🎵💤",
+    "userName": "Alex Hedges",
+    "userTitle": "Professional",
+    "userProfile": "https://www.linkedin.com/in/alex-hedges-6796a22a8/",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/39.png",
+    "gif": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/39.gif"
+  },
+  {
+    "pokemonName": "Mew",
+    "phrase": "Phyllis's Mew wishes you to create copy and designs as rare and magical as this legendary Pokémon! ✨🎨",
+    "userName": "Phyllis Tulaszewski",
+    "userTitle": "Copywriter & Designer",
+    "userProfile": "https://www.linkedin.com/in/phyllistulaszewski/",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/151.png",
+    "gif": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/151.gif"
+  },
+  {
+    "pokemonName": "Psyduck",
+    "phrase": "Dimitris's Psyduck wishes you to solve web development puzzles even when they give you a headache! 🤯💻",
+    "userName": "Dimitris Lymperis",
+    "userTitle": "Web Developer",
+    "userProfile": "https://www.linkedin.com/in/dimitris-lymperis-web-developer/",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/54.png",
+    "gif": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/54.gif"
+  },
+  {
+    "pokemonName": "Bulbasaur",
+    "phrase": "Justin's Bulbasaur wishes you to grow your skills like a garden and be the foundation of every team! 🌱🚀",
+    "userName": "Justin Fulton",
+    "userTitle": "Script Keeper",
+    "userProfile": "https://www.linkedin.com/in/skript-keeper/",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1.png",
+    "gif": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/1.gif"
   },
   {
     "pokemonName": "Eevee",
-    "phrase": "Eevee says: I have more career options than a college graduate!",
-    "userName": "Amanda Foster",
-    "userProfile": "https://linkedin.com/in/amandafoster",
+    "phrase": "Sobia's Eevee wishes you infinite possibilities in web development, just like Eevee's evolutions! 🌟💻",
+    "userName": "Sobia Soomro",
+    "userTitle": "Web Developer",
+    "userProfile": "https://www.linkedin.com/in/sobiasoomro/",
     "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/133.png",
     "gif": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/133.gif"
   },
   {
+    "pokemonName": "Crobat",
+    "phrase": "Nav's Crobat wishes you to code with the speed and precision of a supersonic bat! 💜⚡",
+    "userName": "Nav (Navi) Rao",
+    "userTitle": "Software Engineer",
+    "userProfile": "https://www.linkedin.com/in/nav-rao/",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/169.png",
+    "gif": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/169.gif"
+  },
+  {
+    "pokemonName": "Mudkip",
+    "phrase": "Giulia's Mudkip wishes you to navigate through any challenge with determination and a splash of fun! 💙🌊",
+    "userName": "Giulia De Col",
+    "userTitle": "Professional",
+    "userProfile": "https://www.linkedin.com/in/giulia-de-col-860/",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/258.png",
+    "gif": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/258.gif"
+  },
+  {
+    "pokemonName": "Gengar",
+    "phrase": "Angbeen's Gengar wishes you to haunt every bug until it disappears and bring spooky fun to coding! 👻🎀",
+    "userName": "Angbeen Azeem",
+    "userTitle": "Professional",
+    "userProfile": "https://www.linkedin.com/in/angbeenazeem/",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/94.png",
+    "gif": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/94.gif"
+  },
+  {
+    "pokemonName": "Butterfree",
+    "phrase": "Yasir's Butterfree wishes you to transform your web development skills like a beautiful metamorphosis! 🦋✨",
+    "userName": "Yasir Mohammad",
+    "userTitle": "Web Developer",
+    "userProfile": "https://www.linkedin.com/in/yasir-mohammad-104406264/",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/12.png",
+    "gif": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/12.gif"
+  },
+  {
+    "pokemonName": "Pidgeot",
+    "phrase": "Ross's Pidgeot wishes you to soar above all DevOps challenges like the true lord of the clouds! 🦅👑",
+    "userName": "Ross Tomsic",
+    "userTitle": "Lord of DevOps",
+    "userProfile": "https://www.linkedin.com/in/rosstomsic/",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/18.png",
+    "gif": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/18.gif"
+  },
+  {
+    "pokemonName": "Squirtle",
+    "phrase": "Brian's Squirtle wishes you to tackle every software challenge with the coolness of water! 💧😎",
+    "userName": "Brian Kim",
+    "userTitle": "Software Engineer",
+    "userProfile": "https://www.linkedin.com/in/briankim47/",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/7.png",
+    "gif": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/7.gif"
+  },
+  {
+    "pokemonName": "Quaxly",
+    "phrase": "Hassan's Quaxly wishes you to dive into web development with the elegance of a water performer! 🦆💻",
+    "userName": "Hassan Naseer",
+    "userTitle": "Web Developer",
+    "userProfile": "https://www.linkedin.com/in/hassan-naseer-web-developer/",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/912.png",
+    "gif": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/7.gif"
+  },
+  {
+    "pokemonName": "Dragonite",
+    "phrase": "Davit's Dragonite wishes you to deliver solutions faster than air mail with a gentle giant's heart! 🐉💌",
+    "userName": "Davit Gasparyan",
+    "userTitle": "Professional",
+    "userProfile": "https://www.linkedin.com/in/david-gasparian/",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/149.png",
+    "gif": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/149.gif"
+  },
+  {
+    "pokemonName": "Raichu",
+    "phrase": "Amarachi's Raichu wishes you to energize developer communities with electric enthusiasm! ⚡🤝",
+    "userName": "Amarachi Iheanacho",
+    "userTitle": "Developer Relations Engineer",
+    "userProfile": "https://www.linkedin.com/in/amarachi-iheanacho/",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/26.png",
+    "gif": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/26.gif"
+  },
+  {
     "pokemonName": "Lucario",
-    "phrase": "Lucario says: I sense your aura... and it needs more coffee!",
-    "userName": "Kevin Wright",
-    "userProfile": "https://linkedin.com/in/kevinwright",
+    "phrase": "Makinde's Lucario wishes you to sense the perfect UI/UX solutions with warrior-like focus! 🥋🎨",
+    "userName": "Makinde (Olalekan) Mayowa",
+    "userTitle": "Frontend Developer",
+    "userProfile": "https://www.linkedin.com/in/makinde-mayowa-4670a51bb/",
     "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/448.png",
     "gif": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/448.gif"
   },
   {
-    "pokemonName": "Garchomp",
-    "phrase": "Garchomp says: I'm faster than your internet connection!",
-    "userName": "Stephanie Davis",
-    "userProfile": "https://linkedin.com/in/stephaniedavis",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/445.png",
-    "gif": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/445.gif"
+    "pokemonName": "Zeraora",
+    "phrase": "Michael's Zeraora wishes you lightning-fast coding skills and electric innovation! ⚡🚀",
+    "userName": "Michael Isih",
+    "userTitle": "Software Engineer",
+    "userProfile": "https://www.linkedin.com/in/michaelisih/",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/807.png",
+    "gif": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/25.gif"
   },
   {
-    "pokemonName": "Rayquaza",
-    "phrase": "Rayquaza says: I live in the sky because the rent is cheaper up here!",
-    "userName": "Daniel Martinez",
-    "userProfile": "https://linkedin.com/in/danielmartinez",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/384.png",
-    "gif": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/384.gif"
+    "pokemonName": "Porygon-Z",
+    "phrase": "Shabie's Porygon-Z wishes you to upgrade your web development skills to the digital dimension! 💻🌐",
+    "userName": "Shabie Ul Hassan",
+    "userTitle": "Web Developer",
+    "userProfile": "https://www.linkedin.com/in/shabiehassan/",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/474.png",
+    "gif": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/474.gif"
   },
   {
-    "pokemonName": "Metagross",
-    "phrase": "Metagross says: I have four brains and still can't understand humans!",
-    "userName": "Jennifer Taylor",
-    "userProfile": "https://linkedin.com/in/jennifertaylor",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/376.png",
-    "gif": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/376.gif"
+    "pokemonName": "Ditto",
+    "phrase": "Adam's Ditto wishes you the flexibility to transform and adapt to any coding challenge! 🔄💜",
+    "userName": "Adam P.",
+    "userTitle": "Professional",
+    "userProfile": "https://www.linkedin.com/in/adamparr1/",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/132.png",
+    "gif": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/132.gif"
   },
   {
-    "pokemonName": "Absol",
-    "phrase": "Absol says: I predict disasters, but nobody listens until it's too late!",
-    "userName": "Ryan Murphy",
-    "userProfile": "https://linkedin.com/in/ryanmurphy",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/359.png",
-    "gif": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/359.gif"
+    "pokemonName": "Mewtwo",
+    "phrase": "Alex's Mewtwo wishes you psychic-level debugging powers and legendary coding abilities! 🧠👑",
+    "userName": "Alex (Foxy) Foxleigh",
+    "userTitle": "Professional",
+    "userProfile": "https://www.linkedin.com/in/alexfoxleigh/",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/150.png",
+    "gif": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/150.gif"
   },
   {
-    "pokemonName": "Togekiss",
-    "phrase": "Togekiss says: Spreading happiness is my full-time job!",
-    "userName": "Michelle Brown",
-    "userProfile": "https://linkedin.com/in/michellebrown",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/468.png",
-    "gif": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/468.gif"
+    "pokemonName": "Palkia",
+    "phrase": "Hassan's Palkia wishes you to master the dimensions of space and time in your projects! 🌌⏰",
+    "userName": "Hassan Abbas",
+    "userTitle": "Professional",
+    "userProfile": "https://www.linkedin.com/in/hassan-abbas-b34545263/",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/484.png",
+    "gif": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/150.gif"
   },
   {
-    "pokemonName": "Rotom",
-    "phrase": "Rotom says: I'm the reason your appliances have attitude!",
-    "userName": "Andrew Wilson",
-    "userProfile": "https://linkedin.com/in/andrewwilson",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/479.png",
-    "gif": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/479.gif"
+    "pokemonName": "Magikarp",
+    "phrase": "Sean's Magikarp wishes you persistence - even the humblest beginnings lead to legendary success! 🐟💪",
+    "userName": "Sean (Thomas) Vasquez",
+    "userTitle": "Professional",
+    "userProfile": "https://www.linkedin.com/in/tsvasquez/",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/129.png",
+    "gif": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/129.gif"
+  },
+  {
+    "pokemonName": "Vulpix",
+    "phrase": "Ido's Vulpix wishes you to approach every challenge with the wisdom and warmth of a nine-tailed fox! 🦊🔥",
+    "userName": "Ido Lechner",
+    "userTitle": "Professional",
+    "userProfile": "https://www.linkedin.com/in/ido-lechner/",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/37.png",
+    "gif": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/37.gif"
+  },
+  {
+    "pokemonName": "Lunala",
+    "phrase": "Rebecca-kay's Lunala wishes you moonlit inspiration and cosmic creativity in all your endeavors! 🌙✨",
+    "userName": "Rebecca-kay Francis",
+    "userTitle": "Professional",
+    "userProfile": "https://www.linkedin.com/in/becfrancis/",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/792.png",
+    "gif": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/25.gif"
   }
 ]

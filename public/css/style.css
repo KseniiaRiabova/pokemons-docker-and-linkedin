@@ -1,3 +1,4 @@
+/* Reset and base styles */
 * {
   margin: 0;
   padding: 0;
@@ -11,6 +12,310 @@ body {
   background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
   min-height: 100vh;
 }
+
+/* Welcome Screen Styles */
+.welcome-screen {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 2rem;
+  text-align: center;
+}
+
+.pokeball-container {
+  margin-bottom: 3rem;
+}
+
+/* Pokéball Animation */
+.pokeball {
+  width: 120px;
+  height: 120px;
+  border-radius: 50%;
+  position: relative;
+  overflow: hidden;
+  animation: pokeball-bounce 2s ease-in-out infinite;
+  cursor: pointer;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.3);
+}
+
+.pokeball-top {
+  width: 100%;
+  height: 50%;
+  background: #ff4444;
+  background: linear-gradient(135deg, #ff6b6b 0%, #ff4444 100%);
+  border-bottom: 4px solid #333;
+}
+
+.pokeball-bottom {
+  width: 100%;
+  height: 50%;
+  background: #ffffff;
+  background: linear-gradient(135deg, #ffffff 0%, #f0f0f0 100%);
+}
+
+.pokeball-center {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 30px;
+  height: 30px;
+  background: #ffffff;
+  border-radius: 50%;
+  border: 4px solid #333;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.pokeball-button {
+  width: 12px;
+  height: 12px;
+  background: #333;
+  border-radius: 50%;
+}
+
+@keyframes pokeball-bounce {
+  0%, 100% { transform: translateY(0px) rotate(0deg); }
+  25% { transform: translateY(-20px) rotate(5deg); }
+  50% { transform: translateY(-10px) rotate(0deg); }
+  75% { transform: translateY(-15px) rotate(-5deg); }
+}
+
+.pokeball:hover {
+  animation: pokeball-spin 1s ease-in-out infinite;
+}
+
+@keyframes pokeball-spin {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}
+
+/* Welcome Content */
+.welcome-content {
+  color: white;
+  max-width: 600px;
+  width: 100%;
+}
+
+.welcome-title {
+  font-size: 3rem;
+  font-weight: 700;
+  margin-bottom: 1rem;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+  animation: fadeInUp 1s ease-out;
+}
+
+.welcome-subtitle {
+  font-size: 1.2rem;
+  margin-bottom: 3rem;
+  opacity: 0.9;
+  animation: fadeInUp 1s ease-out 0.2s both;
+}
+
+.welcome-actions {
+  animation: fadeInUp 1s ease-out 0.4s both;
+}
+
+.search-section {
+  margin-bottom: 2rem;
+}
+
+.search-section h2 {
+  font-size: 1.5rem;
+  margin-bottom: 1rem;
+  color: white;
+}
+
+.search-container {
+  display: flex;
+  gap: 1rem;
+  margin-bottom: 1rem;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.search-input {
+  flex: 1;
+  min-width: 250px;
+  padding: 1rem;
+  border: none;
+  border-radius: 25px;
+  font-size: 1rem;
+  background: rgba(255, 255, 255, 0.9);
+  backdrop-filter: blur(10px);
+  color: #333;
+  transition: all 0.3s ease;
+}
+
+.search-input:focus {
+  outline: none;
+  background: white;
+  box-shadow: 0 0 20px rgba(255, 255, 255, 0.3);
+}
+
+.search-btn {
+  padding: 1rem 2rem;
+  background: rgba(255, 255, 255, 0.2);
+  border: 2px solid rgba(255, 255, 255, 0.3);
+  border-radius: 25px;
+  color: white;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  backdrop-filter: blur(10px);
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.search-btn:hover {
+  background: rgba(255, 255, 255, 0.3);
+  transform: translateY(-2px);
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
+}
+
+.search-result {
+  margin-top: 1rem;
+  padding: 1rem;
+  background: rgba(255, 255, 255, 0.1);
+  border-radius: 15px;
+  backdrop-filter: blur(10px);
+  display: none;
+}
+
+.divider {
+  margin: 2rem 0;
+  position: relative;
+  color: white;
+  opacity: 0.7;
+}
+
+.divider::before {
+  content: '';
+  position: absolute;
+  top: 50%;
+  left: 0;
+  right: 0;
+  height: 1px;
+  background: rgba(255, 255, 255, 0.3);
+  z-index: 1;
+}
+
+.divider span {
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  padding: 0 1rem;
+  position: relative;
+  z-index: 2;
+}
+
+.view-all-btn {
+  padding: 1.2rem 2.5rem;
+  background: rgba(255, 255, 255, 0.2);
+  border: 2px solid rgba(255, 255, 255, 0.3);
+  border-radius: 25px;
+  color: white;
+  font-size: 1.1rem;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  backdrop-filter: blur(10px);
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  margin: 0 auto;
+}
+
+.view-all-btn:hover {
+  background: rgba(255, 255, 255, 0.3);
+  transform: translateY(-3px);
+  box-shadow: 0 8px 25px rgba(0, 0, 0, 0.2);
+}
+
+.back-to-search {
+  position: fixed;
+  top: 100px;
+  left: 2rem;
+  z-index: 200;
+}
+
+.back-btn {
+  padding: 0.8rem 1.5rem;
+  background: rgba(255, 255, 255, 0.9);
+  border: none;
+  border-radius: 25px;
+  color: #667eea;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  backdrop-filter: blur(10px);
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+}
+
+.back-btn:hover {
+  background: white;
+  transform: translateY(-2px);
+  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.15);
+}
+
+@keyframes fadeInUp {
+  from {
+    opacity: 0;
+    transform: translateY(30px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+/* Individual Pokemon Card in Search Result */
+.pokemon-card-individual {
+  background: rgba(255, 255, 255, 0.9);
+  border-radius: 20px;
+  padding: 2rem;
+  text-align: center;
+  color: #333;
+  margin-top: 1rem;
+  backdrop-filter: blur(10px);
+}
+
+.pokemon-card-individual img {
+  width: 150px;
+  height: 150px;
+  object-fit: contain;
+  margin-bottom: 1rem;
+}
+
+.pokemon-card-individual h3 {
+  font-size: 1.5rem;
+  margin-bottom: 1rem;
+  color: #667eea;
+}
+
+.pokemon-card-individual .message {
+  font-size: 1.1rem;
+  margin-bottom: 1rem;
+  line-height: 1.6;
+}
+
+.pokemon-card-individual .user-info {
+  margin-top: 1rem;
+}
+
+.user-title {
+  color: #666;
+  font-size: 0.9rem;
+  margin-top: 0.5rem;
+  font-style: italic;
+}
+
+/* Navigation */
 
 .navbar {
   background: rgba(255, 255, 255, 0.95);
