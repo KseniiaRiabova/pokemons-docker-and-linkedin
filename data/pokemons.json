@@ -1,7 +1,7 @@
 [
   {
     "pokemonName": "Alakazam",
-    "phrase": "Kseniia's Alakazam wishes you to solve every bug with the intelligence of a thousand minds! 🧠✨",
+    "phrase": "Greetings Kseniia! As a psychic Pokemon with an IQ over 5000, I sense your brilliant software engineering mind. May your code be as precise as my telepathy! 🧠✨",
     "userName": "Kseniia Riabova",
     "userTitle": "Software Engineer",
     "userProfile": "https://www.linkedin.com/in/riabovakseniia/",
@@ -10,7 +10,7 @@
   },
   {
     "pokemonName": "Pikachu",
-    "phrase": "Ahmed's Pikachu wishes you to stay energized and spark innovation in every project! ⚡🔥",
+    "phrase": "Hi Ahmed! Your electrical engineering sparks match my electric energy perfectly! Let's power up the world together with innovation! ⚡🔥",
     "userName": "Ahmed Sohail",
     "userTitle": "Electrical Engineer",
     "userProfile": "https://www.linkedin.com/in/ahmed-sohail/",
@@ -19,7 +19,7 @@
   },
   {
     "pokemonName": "Charizard",
-    "phrase": "Martin's Charizard wishes you to manage projects with the fierce determination of a dragon! 🐉🔥",
+    "phrase": "Hey Martin! As a dragon who leads from the skies, I admire your project management leadership. Together we can conquer any challenge! 🐉🔥",
     "userName": "Martin Pham",
     "userTitle": "Project Manager",
     "userProfile": "https://www.linkedin.com/in/martinpham-projects/",
@@ -28,7 +28,7 @@
   },
   {
     "pokemonName": "Snorlax",
-    "phrase": "Jacob's Snorlax wishes you to rest when needed and wake up with unstoppable entrepreneurial energy! 😴💪",
+    "phrase": "Jacob! Even though I love to sleep, your entrepreneurial energy keeps me awake and motivated. Let's build something amazing! 😴💪",
     "userName": "Jacob Elliott",
     "userTitle": "Entrepreneur & Product Strategist",
     "userProfile": "https://www.linkedin.com/in/jacob-elliott/",
@@ -37,7 +37,7 @@
   },
   {
     "pokemonName": "Vaporeon",
-    "phrase": "Cristian's Vaporeon wishes you to flow like water and adapt to any security challenge! 🌊🛡️",
+    "phrase": "Hello Cristian! Like water adapting to any container, I flow with your covert security expertise. Together we protect what matters! 🌊🛡️",
     "userName": "Cristian Sindile",
     "userTitle": "Founder of Covert Security",
     "userProfile": "https://www.linkedin.com/in/cristiansindile/",
@@ -46,16 +46,16 @@
   },
   {
     "pokemonName": "Jigglypuff",
-    "phrase": "Alex's Jigglypuff wishes you sweet dreams and harmonious success in all your endeavors! 🎵💤",
+    "phrase": "Hi Alex! My melodies harmonize perfectly with your Python backend code. Let's create beautiful symphonies in programming! 🎵🐍",
     "userName": "Alex Hedges",
-    "userTitle": "Professional",
+    "userTitle": "Python Backend Developer",
     "userProfile": "https://www.linkedin.com/in/alex-hedges-6796a22a8/",
     "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/39.png",
     "gif": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/39.gif"
   },
   {
     "pokemonName": "Mew",
-    "phrase": "Phyllis's Mew wishes you to create copy and designs as rare and magical as this legendary Pokémon! ✨🎨",
+    "phrase": "Phyllis! As the ancestor of all Pokemon, I appreciate rare creativity like yours. Your copywriting and design are truly legendary! ✨📝",
     "userName": "Phyllis Tulaszewski",
     "userTitle": "Copywriter & Designer",
     "userProfile": "https://www.linkedin.com/in/phyllistulaszewski/",
@@ -64,7 +64,7 @@
   },
   {
     "pokemonName": "Psyduck",
-    "phrase": "Dimitris's Psyduck wishes you to solve web development puzzles even when they give you a headache! 🤯💻",
+    "phrase": "Dimitris! When I get headaches, my psychic powers grow stronger - just like how web development challenges make you more powerful! 🧠💻",
     "userName": "Dimitris Lymperis",
     "userTitle": "Web Developer",
     "userProfile": "https://www.linkedin.com/in/dimitris-lymperis-web-developer/",
@@ -73,16 +73,16 @@
   },
   {
     "pokemonName": "Bulbasaur",
-    "phrase": "Justin's Bulbasaur wishes you to grow your skills like a garden and be the foundation of every team! 🌱🚀",
+    "phrase": "Justin! As Pokemon #001, I understand the importance of strong foundations. Your software engineering roots will grow into mighty achievements! 🌱🚀",
     "userName": "Justin Fulton",
-    "userTitle": "Script Keeper",
+    "userTitle": "Software Engineer",
     "userProfile": "https://www.linkedin.com/in/skript-keeper/",
     "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1.png",
     "gif": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/1.gif"
   },
   {
     "pokemonName": "Eevee",
-    "phrase": "Sobia's Eevee wishes you infinite possibilities in web development, just like Eevee's evolutions! 🌟💻",
+    "phrase": "Sobia! With eight evolution possibilities, I understand adaptability like you do in web development. Let's evolve together! 🦊💫",
     "userName": "Sobia Soomro",
     "userTitle": "Web Developer",
     "userProfile": "https://www.linkedin.com/in/sobiasoomro/",
@@ -91,7 +91,7 @@
   },
   {
     "pokemonName": "Crobat",
-    "phrase": "Nav's Crobat wishes you to code with the speed and precision of a supersonic bat! 💜⚡",
+    "phrase": "Nav! With four wings, I fly faster than any bird. Your software engineering speed matches my velocity through the code skies! 🦇💨",
     "userName": "Nav (Navi) Rao",
     "userTitle": "Software Engineer",
     "userProfile": "https://www.linkedin.com/in/nav-rao/",
@@ -100,25 +100,25 @@
   },
   {
     "pokemonName": "Mudkip",
-    "phrase": "Giulia's Mudkip wishes you to navigate through any challenge with determination and a splash of fun! 💙🌊",
+    "phrase": "Giulia! I love digging in mud to find hidden treasures. You dig through resumes to find the perfect IT talent gems! 💼🔍",
     "userName": "Giulia De Col",
-    "userTitle": "Professional",
+    "userTitle": "IT Recruiter | Head Hunter",
     "userProfile": "https://www.linkedin.com/in/giulia-de-col-860/",
     "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/258.png",
     "gif": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/258.gif"
   },
   {
     "pokemonName": "Gengar",
-    "phrase": "Angbeen's Gengar wishes you to haunt every bug until it disappears and bring spooky fun to coding! 👻🎀",
+    "phrase": "Angbeen! From the shadows, I observe and plan my next move. Your strategic mind thinks like a ghost - always three steps ahead! 👻🎀",
     "userName": "Angbeen Azeem",
-    "userTitle": "Professional",
+    "userTitle": "Strategist",
     "userProfile": "https://www.linkedin.com/in/angbeenazeem/",
     "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/94.png",
     "gif": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/94.gif"
   },
   {
     "pokemonName": "Butterfree",
-    "phrase": "Yasir's Butterfree wishes you to transform your web development skills like a beautiful metamorphosis! 🦋✨",
+    "phrase": "Yasir! I transformed from a caterpillar to spread my wings and fly. Your web development journey is a beautiful metamorphosis too! 🦋💻",
     "userName": "Yasir Mohammad",
     "userTitle": "Web Developer",
     "userProfile": "https://www.linkedin.com/in/yasir-mohammad-104406264/",
@@ -127,7 +127,7 @@
   },
   {
     "pokemonName": "Pidgeot",
-    "phrase": "Ross's Pidgeot wishes you to soar above all DevOps challenges like the true lord of the clouds! 🦅👑",
+    "phrase": "Ross! As the king of birds, I respect your title as Lord of DevOps. From the clouds, we rule our domains with wisdom! 🦅👑",
     "userName": "Ross Tomsic",
     "userTitle": "Lord of DevOps",
     "userProfile": "https://www.linkedin.com/in/rosstomsic/",
@@ -136,7 +136,7 @@
   },
   {
     "pokemonName": "Squirtle",
-    "phrase": "Brian's Squirtle wishes you to tackle every software challenge with the coolness of water! 💧😎",
+    "phrase": "Brian! My shell protects me from any attack. Your software engineering armor shields you from bugs and errors! 🐢💪",
     "userName": "Brian Kim",
     "userTitle": "Software Engineer",
     "userProfile": "https://www.linkedin.com/in/briankim47/",
@@ -145,16 +145,16 @@
   },
   {
     "pokemonName": "Quaxly",
-    "phrase": "Hassan's Quaxly wishes you to dive into web development with the elegance of a water performer! 🦆💻",
+    "phrase": "Hassan! I'm always dancing and having fun while exploring. Your web development journey should be just as joyful and exciting! 🦆💃",
     "userName": "Hassan Naseer",
     "userTitle": "Web Developer",
     "userProfile": "https://www.linkedin.com/in/hassan-naseer-web-developer/",
     "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/912.png",
-    "gif": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/7.gif"
+    "gif": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/912.gif"
   },
   {
     "pokemonName": "Dragonite",
-    "phrase": "Davit's Dragonite wishes you to deliver solutions faster than air mail with a gentle giant's heart! 🐉💌",
+    "phrase": "Davit! Despite my size, I'm gentle and kind. True professionals like you combine strength with compassion in everything you do! 🐲✨",
     "userName": "Davit Gasparyan",
     "userTitle": "Professional",
     "userProfile": "https://www.linkedin.com/in/david-gasparian/",
@@ -163,7 +163,7 @@
   },
   {
     "pokemonName": "Raichu",
-    "phrase": "Amarachi's Raichu wishes you to energize developer communities with electric enthusiasm! ⚡🤝",
+    "phrase": "Amarachi! My electric personality lights up any room. Your developer relations magic creates sparks that connect people worldwide! ⚡😊",
     "userName": "Amarachi Iheanacho",
     "userTitle": "Developer Relations Engineer",
     "userProfile": "https://www.linkedin.com/in/amarachi-iheanacho/",
@@ -172,7 +172,7 @@
   },
   {
     "pokemonName": "Lucario",
-    "phrase": "Makinde's Lucario wishes you to sense the perfect UI/UX solutions with warrior-like focus! 🥋🎨",
+    "phrase": "Makinde! I sense auras and emotions. I feel the passion in your frontend development - your user interfaces have the perfect aura! 👊🎨",
     "userName": "Makinde (Olalekan) Mayowa",
     "userTitle": "Frontend Developer",
     "userProfile": "https://www.linkedin.com/in/makinde-mayowa-4670a51bb/",
@@ -181,16 +181,16 @@
   },
   {
     "pokemonName": "Zeraora",
-    "phrase": "Michael's Zeraora wishes you lightning-fast coding skills and electric innovation! ⚡🚀",
+    "phrase": "Michael! I move faster than lightning and strike with precision. Your software engineering skills are just as swift and accurate! ⚡🚀",
     "userName": "Michael Isih",
     "userTitle": "Software Engineer",
     "userProfile": "https://www.linkedin.com/in/michaelisih/",
     "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/807.png",
-    "gif": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/25.gif"
+    "gif": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/807.gif"
   },
   {
     "pokemonName": "Porygon-Z",
-    "phrase": "Shabie's Porygon-Z wishes you to upgrade your web development skills to the digital dimension! 💻🌐",
+    "phrase": "Shabie! As a digital Pokemon created by code, I understand your web development world perfectly. Let's debug reality together! 🤖💫",
     "userName": "Shabie Ul Hassan",
     "userTitle": "Web Developer",
     "userProfile": "https://www.linkedin.com/in/shabiehassan/",
@@ -199,56 +199,65 @@
   },
   {
     "pokemonName": "Ditto",
-    "phrase": "Adam's Ditto wishes you the flexibility to transform and adapt to any coding challenge! 🔄💜",
+    "phrase": "Adam! I can transform into any Pokemon, adapting to any situation. Your software engineering flexibility matches my shapeshifting abilities! 🎭💻",
     "userName": "Adam P.",
-    "userTitle": "Professional",
+    "userTitle": "Software Engineer",
     "userProfile": "https://www.linkedin.com/in/adamparr1/",
     "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/132.png",
     "gif": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/132.gif"
   },
   {
     "pokemonName": "Mewtwo",
-    "phrase": "Alex's Mewtwo wishes you psychic-level debugging powers and legendary coding abilities! 🧠👑",
+    "phrase": "Alex! Created to be the ultimate Pokemon, I appreciate ultimate craftsmanship. Your frontend architecture is legendary-level perfection! 🧬🎨",
     "userName": "Alex (Foxy) Foxleigh",
-    "userTitle": "Professional",
+    "userTitle": "Front-end architect & Design systems specialist",
     "userProfile": "https://www.linkedin.com/in/alexfoxleigh/",
     "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/150.png",
     "gif": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/150.gif"
   },
   {
     "pokemonName": "Palkia",
-    "phrase": "Hassan's Palkia wishes you to master the dimensions of space and time in your projects! 🌌⏰",
+    "phrase": "Hassan! I control space and dimensions, but even I'm amazed by how you bend the laws of software engineering to create amazing things! 🌌⚡",
     "userName": "Hassan Abbas",
-    "userTitle": "Professional",
+    "userTitle": "Software Engineer",
     "userProfile": "https://www.linkedin.com/in/hassan-abbas-b34545263/",
     "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/484.png",
-    "gif": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/150.gif"
+    "gif": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/484.gif"
   },
   {
     "pokemonName": "Magikarp",
-    "phrase": "Sean's Magikarp wishes you persistence - even the humblest beginnings lead to legendary success! 🐟💪",
+    "phrase": "Sean! Everyone underestimates me, but I have hidden potential to evolve into mighty Gyarados. Your inventory management skills are my evolution stone! 🐟📦",
     "userName": "Sean (Thomas) Vasquez",
-    "userTitle": "Professional",
+    "userTitle": "Director & Inventory Management",
     "userProfile": "https://www.linkedin.com/in/tsvasquez/",
     "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/129.png",
     "gif": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/129.gif"
   },
   {
     "pokemonName": "Vulpix",
-    "phrase": "Ido's Vulpix wishes you to approach every challenge with the wisdom and warmth of a nine-tailed fox! 🦊🔥",
+    "phrase": "Ido! My six tails grow more beautiful as I mature. Your magical media creations bring warmth and wonder to the world! 🦊🔥",
     "userName": "Ido Lechner",
-    "userTitle": "Professional",
+    "userTitle": "Founder @MagicMedia",
     "userProfile": "https://www.linkedin.com/in/ido-lechner/",
     "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/37.png",
     "gif": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/37.gif"
   },
   {
     "pokemonName": "Lunala",
-    "phrase": "Rebecca-kay's Lunala wishes you moonlit inspiration and cosmic creativity in all your endeavors! 🌙✨",
+    "phrase": "Rebecca! I call forth the moon and guide travelers through darkness. Your leadership in health and education lights the path for others! 🌙🏥",
     "userName": "Rebecca-kay Francis",
-    "userTitle": "Professional",
+    "userTitle": "Strategic Leader, Health & EdTech Founder",
     "userProfile": "https://www.linkedin.com/in/becfrancis/",
     "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/792.png",
-    "gif": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/25.gif"
+    "gif": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/792.gif"
+  },
+  {
+    "pokemonName": "Porygon",
+    "phrase": "Lucian! As a digital Pokemon created from pure code, I recognize your pioneering spirit in ZEROCAT. Together we'll compile the future of next-generation enterprises! 💻🚀",
+    "userName": "Lucian-Vasile Dabija",
+    "userTitle": "Founder @ ZEROCAT - Pioneering Technologies for Next-Generation Enterprises",
+    "userProfile": "https://www.linkedin.com/in/lucian-dabija/",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/137.png",
+    "gif": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/137.gif"
   }
 ]

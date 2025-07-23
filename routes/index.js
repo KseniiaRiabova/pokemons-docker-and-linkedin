@@ -14,26 +14,38 @@ function loadPokemonData() {
   }
 }
 
-// Main route - Display all Pokemon cards
+// Fisher-Yates shuffle algorithm
+function shuffleArray(array) {
+  const shuffled = array.map((item, index) => ({
+    ...item,
+    originalIndex: index,
+  }));
+
+  for (let i = shuffled.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [shuffled[i], shuffled[j]] = [shuffled[j], shuffled[i]];
+  }
+  return shuffled;
+}
+
 router.get('/', (req, res) => {
   const pokemons = loadPokemonData();
-  res.render('index', { 
+  const shuffledPokemons = shuffleArray(pokemons);
+  res.render('index', {
     title: 'Pokémons Docker and LinkedIn',
-    pokemons: pokemons // Show all Pokemon now, not just 20
+    pokemons: shuffledPokemons, // Show randomly shuffled Pokemon
   });
 });
 
-// API route to get all Pokemon data (for search functionality)
 router.get('/api/pokemon/all', (req, res) => {
   const pokemons = loadPokemonData();
   res.json(pokemons);
 });
 
-// API route to get Pokemon data by index (for modal)
 router.get('/api/pokemon/:index', (req, res) => {
   const pokemons = loadPokemonData();
   const index = parseInt(req.params.index);
-  
+
   if (index >= 0 && index < pokemons.length) {
     res.json(pokemons[index]);
   } else {
