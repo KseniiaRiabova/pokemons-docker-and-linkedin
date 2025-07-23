@@ -1,10 +1,11 @@
 # 🐉 Pokémons Docker and LinkedIn
 
-A modern, interactive web application showcasing Docker skills through a fun Pokémon card collection submitted by my LinkedIn network.
+A modern, interactive web application showcasing Docker skills through a fun Pokémon card collection submitted by my LinkedIn Network.
 
 ## 🎯 Project Overview
 
-This project demonstrates Docker containerization skills by building a Node.js web application that displays Pokémon cards with funny phrases, submitted by LinkedIn connections. The application features a clean, modern design with interactive modals and is fully dockerized for easy deployment.
+This project demonstrates Docker containerization skills by building a Node.js web application that displays Pokémon cards with funny phrases, submitted by LinkedIn connections. 
+The application features a clean, modern design with interactive modals and is fully dockerized for easy deployment.
 
 ## ✨ Features
 
@@ -189,7 +190,8 @@ The Pokémon data is stored in `data/pokemons.json` with the following structure
 
 ## 🤝 Contributing
 
-Contributions are welcome! Please feel free to submit a Pull Request. For major changes, please open an issue first to discuss what you would like to change.
+Contributions are welcome! 
+Please feel free to submit a Pull Request. For major changes, please open an issue first to discuss what you would like to change.
 
 ### Development Setup
 
