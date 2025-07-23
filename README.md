@@ -216,7 +216,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - 🔗 LinkedIn: [linkedin.com/in/riabovakseniia](https://www.linkedin.com/in/riabovakseniia/)
 - 🐙 GitHub: [github.com/KseniiaRiabova](https://github.com/KseniiaRiabova)
-- 📧 Email: [your-email@example.com](kseniaistratova@gmail.com)
+- 📧 Email: [kseniaistratova@gmail.com](kseniaistratova@gmail.com)
 
 ---
 
