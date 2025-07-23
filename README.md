@@ -2,6 +2,8 @@
 
 A modern, interactive web application showcasing Docker skills through a fun Pokémon card collection submitted by my LinkedIn Network.
 
+![Hero Page image](./public/images/readme.png)
+
 ## 🎯 Project Overview
 
 This project demonstrates Docker containerization skills by building a Node.js web application that displays Pokémon cards with funny phrases, submitted by LinkedIn connections. 
