@@ -209,7 +209,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🙏 Acknowledgments
 
-- **LinkedIn Network**: Thank you to everyone who contributed Pokémon ideas and phrases
+- **LinkedIn Network**: Thank you to everyone who contributed Pokémons
 - **PokéAPI**: For providing the amazing Pokémon images and sprites
 - **Docker Community**: For the excellent documentation and best practices
 - **Open Source Community**: For the tools and libraries that made this project possible
