@@ -22,7 +22,7 @@
           <input
             type="text"
             id="pokemonSearch"
-            placeholder="Enter a Pokémon name (e.g., Pikachu, Charizard...)"
+            placeholder="Search by Pokémon name or person name..."
             class="search-input"
           />
           <button onclick="searchPokemon()" class="search-btn">
@@ -30,6 +30,10 @@
             Find Message
           </button>
         </div>
+        <p class="search-tip">
+          Search by Pokémon name (like "Pikachu") or by person name (like
+          "Ahmed")
+        </p>
         <div id="searchResult" class="search-result"></div>
       </div>
 
@@ -56,6 +60,20 @@
   <div class="hero-section">
     <h1 class="hero-title">Pokémon Cards Collection</h1>
     <p class="hero-subtitle">Personalized messages for my LinkedIn network</p>
+
+    <div class="collection-search-container">
+      <input
+        type="text"
+        id="collectionSearch"
+        placeholder="Search by Pokémon name or person name..."
+        class="collection-search-input"
+      />
+      <button onclick="searchInCollection()" class="collection-search-btn">
+        <i class="fas fa-search"></i>
+        Search
+      </button>
+    </div>
+
     <div class="docker-badge">
       <i class="fab fa-docker"></i>
       <span>Powered by Docker</span>

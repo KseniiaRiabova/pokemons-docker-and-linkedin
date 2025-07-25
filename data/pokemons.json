@@ -259,5 +259,59 @@
     "userProfile": "https://www.linkedin.com/in/lucian-dabija/",
     "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/137.png",
     "gif": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/137.gif"
+  },
+  {
+    "pokemonName": "Weedle",
+    "phrase": "Hoang Anh! Like me, you're a master at creating silk threads - yours just happen to be compelling content that connects brands with their audience! 🐛✍️",
+    "userName": "Bui Hoang Anh",
+    "userTitle": "Your Brand's Content Bestie",
+    "userProfile": "https://www.linkedin.com/in/hoanganhln/",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/13.png",
+    "gif": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/13.gif"
+  },
+  {
+    "pokemonName": "Wartortle",
+    "phrase": "PY! My balanced shell represents your perfect blend of marketing expertise and operational efficiency. Together we'll navigate any business waters with confidence! 🐢💼",
+    "userName": "Pei Yuin (PY) Flaherty",
+    "userTitle": "Customer focused Marketer | Operations Nerd | Start-up Enthusiast",
+    "userProfile": "https://www.linkedin.com/in/pei-yuin-flaherty/",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/8.png",
+    "gif": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/8.gif"
+  },
+  {
+    "pokemonName": "Arceus",
+    "phrase": "Yvette! As the creator of all Pokémon, I see how your artistic vision combined with Linux and cloud expertise creates entire worlds of possibility! 🌟🎨",
+    "userName": "Yvette Lerma-Abaygar",
+    "userTitle": "Artist | Linux | DevOps | Cloud",
+    "userProfile": "https://www.linkedin.com/in/lermayvette/",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/493.png",
+    "gif": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/493.gif"
+  },
+  {
+    "pokemonName": "Lickitung",
+    "phrase": "Stephen! With my remarkable tongue, I can taste the finest flavors - just as your COO skills at Elevita AI help the company taste success through your strategic leadership! 👅💡",
+    "userName": "Stephen Horne",
+    "userTitle": "COO | Elevita AI - Strategy, Ops & Marketing Lead",
+    "userProfile": "https://www.linkedin.com/in/stephen-horne-2064002b4/",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/108.png",
+    "gif": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/108.gif"
+  },
+  {
+    "pokemonName": "MissingNo.",
+    "phrase": "Philippe! As a glitch in the Pokémon world, I represent the unexpected patterns in data. Your skills as both a web developer and data analyst help reveal the meaning behind the anomalies! 🔍👨‍💻",
+    "userName": "Philippe S KOULOURIS",
+    "userTitle": "Web Developer & Data Analyst",
+    "userProfile": "https://www.linkedin.com/in/koulourisphilippes/",
+    "image": "https://images.wikidexcdn.net/mwuploads/wikidex/2/28/latest/20240620103637/Missingno.gif",
+    "gif": "https://images.wikidexcdn.net/mwuploads/wikidex/2/28/latest/20240620103637/Missingno.gif"
+  },
+  {
+    "pokemonName": "Umbreon",
+    "phrase": "Ayman! Under the moonlight, my rings glow with mysterious power - just like how your Python backend skills illuminate complex problems with elegant solutions! 🌙🐍",
+    "userName": "Ayman Turumbekov",
+    "userTitle": "Python Backend Developer",
+    "userProfile": "https://www.linkedin.com/in/ayman-turumbekov/",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/197.png",
+    "gif": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/197.gif"
   }
 ]

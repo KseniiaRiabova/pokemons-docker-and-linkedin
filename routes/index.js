@@ -46,10 +46,19 @@ router.get('/api/pokemon/:index', (req, res) => {
   const pokemons = loadPokemonData();
   const index = parseInt(req.params.index);
 
+  // Check if it's a valid index in our array
   if (index >= 0 && index < pokemons.length) {
     res.json(pokemons[index]);
   } else {
-    res.status(404).json({ error: 'Pokemon not found' });
+    // If not found, try to find by originalIndex in case this is from a shuffled view
+    const pokemonByOriginalIndex = pokemons.find(
+      (pokemon) => pokemon.originalIndex === index
+    );
+    if (pokemonByOriginalIndex) {
+      res.json(pokemonByOriginalIndex);
+    } else {
+      res.status(404).json({ error: 'Pokemon not found' });
+    }
   }
 });
 
