@@ -6,14 +6,14 @@ A modern, interactive web application showcasing Docker skills through a fun Pok
 
 ## 🎯 Project Overview
 
-This project demonstrates Docker containerization skills by building a Node.js web application that displays Pokémon cards with funny phrases, submitted by LinkedIn connections. 
+This project demonstrates Docker containerization skills by building a Node.js web application that displays Pokémon cards with funny phrases, submitted by LinkedIn connections.
 The application features a clean, modern design with interactive modals and is fully dockerized for easy deployment.
 
 ## ✨ Features
 
 ### 🎮 Core Functionality
 
-- **Interactive Pokémon Cards**: Display 20 unique Pokémon cards in a responsive 4-column grid
+- **Interactive Pokémon Cards**: Display 41 unique Pokémon cards in a responsive 4-column grid
 - **Modal Pop-ups**: Click any card to view detailed information with GIFs and funny phrases
 - **LinkedIn Integration**: Each card shows the LinkedIn profile of the person who submitted it
 - **Responsive Design**: Fully mobile-responsive layout with smooth animations
@@ -192,7 +192,7 @@ The Pokémon data is stored in `data/pokemons.json` with the following structure
 
 ## 🤝 Contributing
 
-Contributions are welcome! 
+Contributions are welcome!
 Please feel free to submit a Pull Request. For major changes, please open an issue first to discuss what you would like to change.
 
 ### Development Setup

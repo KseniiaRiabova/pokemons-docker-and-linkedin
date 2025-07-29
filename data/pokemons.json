@@ -313,5 +313,59 @@
     "userProfile": "https://www.linkedin.com/in/ayman-turumbekov/",
     "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/197.png",
     "gif": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/197.gif"
+  },
+  {
+    "pokemonName": "Jirachi",
+    "phrase": "Gbenga! Like a wish-granting legendary, I see how your software engineering skills make dreams come true through code. Keep shining bright! ✨💻",
+    "userName": "Gbenga Balogun",
+    "userTitle": "Software Engineer",
+    "userProfile": "https://www.linkedin.com/in/gbenga-balogun-68500119a/",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/385.png",
+    "gif": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/385.gif"
+  },
+  {
+    "pokemonName": "Genesect",
+    "phrase": "Ali! As a Pokémon enhanced by ancient technology, I admire how you've mastered the MERN stack. Your apprenticeship journey is like my own evolution! 🤖⚡",
+    "userName": "Ali Zain Aslam",
+    "userTitle": "MERN Stack Apprenticeship @Sheryians",
+    "userProfile": "https://www.linkedin.com/in/alizainaslam/",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/649.png",
+    "gif": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/649.gif"
+  },
+  {
+    "pokemonName": "Zoroark",
+    "phrase": "Izuchukwu! My illusion abilities mirror your versatile skills across web development and public health. Your solopreneur spirit is truly inspiring! 🦊💼",
+    "userName": "Izuchukwu Promise Nwoye",
+    "userTitle": "Website Developer, Public Health Enthusiast, Solopreneur",
+    "userProfile": "https://www.linkedin.com/in/izuchukwu-promise-nwoye-08811328b/",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/571.png",
+    "gif": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/571.gif"
+  },
+  {
+    "pokemonName": "Garchomp",
+    "phrase": "Kevin! Like a dragon that dominates both land and sky, you lead SportzLinkz with vision and power. Together we can reach new competitive heights! 🐉👑",
+    "userName": "Kevin Caswell",
+    "userTitle": "Founder & CEO @ SportzLinkz",
+    "userProfile": "https://www.linkedin.com/in/kevincaswell/",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/445.png",
+    "gif": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/445.gif"
+  },
+  {
+    "pokemonName": "Clefairy",
+    "phrase": "Emad! My celestial origins align with your stellar design skills for premium websites. Let's make SaaS and startup experiences that are out of this world! 🌟✨",
+    "userName": "Emad Lashkari",
+    "userTitle": "Design & Develop Premium Websites For SaaS and Startups",
+    "userProfile": "https://www.linkedin.com/in/emad-lashkari-865081248/",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/35.png",
+    "gif": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/35.gif"
+  },
+  {
+    "pokemonName": "Varoom",
+    "phrase": "Ibrahim! My engine roars with the same energy as your software engineering passion. Let's race toward innovative solutions together! 🏎️💻",
+    "userName": "Ibrahim Farrah",
+    "userTitle": "Software Engineer",
+    "userProfile": "https://www.linkedin.com/in/ibrahimif/",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/965.png",
+    "gif": "https://www.pkparaiso.com/imagenes/scarlet_violet/sprites/animados-gigante/varoom.gif"
   }
 ]
