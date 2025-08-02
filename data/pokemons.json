@@ -367,5 +367,14 @@
     "userProfile": "https://www.linkedin.com/in/ibrahimif/",
     "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/965.png",
     "gif": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/965.png"
+  },
+  {
+    "pokemonName": "Chikorita",
+    "phrase": "Otavio! As a grass-type Pokemon who nurtures growth, I can see how your software engineering skills cultivate innovative solutions. Let's grow amazing projects together! 🌱💻",
+    "userName": "Otavio Luiz Tscha",
+    "userTitle": "Software Engineer",
+    "userProfile": "https://www.linkedin.com/in/oltscha/",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/152.png",
+    "gif": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/152.gif"
   }
 ]

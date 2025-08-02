@@ -13,7 +13,7 @@ The application features a clean, modern design with interactive modals and is f
 
 ### 🎮 Core Functionality
 
-- **Interactive Pokémon Cards**: Display 41 unique Pokémon cards in a responsive 4-column grid
+- **Interactive Pokémon Cards**: Display 42 unique Pokémon cards in a responsive 4-column grid
 - **Modal Pop-ups**: Click any card to view detailed information with GIFs and funny phrases
 - **LinkedIn Integration**: Each card shows the LinkedIn profile of the person who submitted it
 - **Responsive Design**: Fully mobile-responsive layout with smooth animations
