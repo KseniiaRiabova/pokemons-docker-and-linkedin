@@ -376,5 +376,14 @@
     "userProfile": "https://www.linkedin.com/in/oltscha/",
     "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/152.png",
     "gif": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/152.gif"
+  },
+  {
+    "pokemonName": "Charmander",
+    "phrase": "Bill! As a fire-type starter, I light the way for new adventures. Your people analytics and leadership as Cookie CEO inspire teams to grow and thrive! 🍪🔥",
+    "userName": "Bill Yost",
+    "userTitle": "People Analytics | Girl Dad | Cookie CEO",
+    "userProfile": "https://www.linkedin.com/in/billyost/",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/4.png",
+    "gif": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/4.gif"
   }
 ]
